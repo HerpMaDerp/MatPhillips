@@ -1,3 +1,43 @@
 html, body{
-  background-color: #E5E9EC
+  background: #25A18E;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+}
+section{
+  width:80%;
+  background: #E5E9EC;
+  max-width: 700px;
+  margin: 10px auto;
+  padding: 50px;
+
+}
+h1{
+  font-size: 200%;
+  color:#03256C;
+  margin-bottom: -10px;
+  margin-left: -8px;
+  margin-top: -20px;
+}
+h2{
+  font-size: 150%;
+  color:#1768AC;
+  margin-left: -5px;
+  margin-bottom: 6px;
+}
+h3{
+  font-size: 130%;
+  color:#25A18E;
+  margin-bottom: 4px;
+}
+h4{
+  font-size: 150%;
+  color:#1F271B;
+  margin-bottom: 6px;
+  margin-top: 6px;
+}
+
+p{
+  font-size: 100%;
+  margin-bottom: 10px;
+  color: #1F271B;
 }
